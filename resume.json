@@ -1,64 +1,39 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Mohd Junaid",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"picture": "https://avatars.githubusercontent.com/u/75855844?s=400&u=60ed1d0fb7bd052943850e1ecb48539b42246d1d&v=4",
+		"email": "2020kuec2038@iiitkota.ac.in",
+		"phone": "+917860079442",
+		"website": "https://mohdjunaid007.github.io/BookShelf/",
+		"summary": "I am student of IIIT Kota , currntly I am persuing B-Tech in Electronics and Communication Engineering (ECE) ",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "Adil Nagar, Lucknow",
+			"postalCode": "226022",
+			"city": "Lucknow",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Uttar Pradesh"
 		},
 		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
-			{
 				"network": "Github",
 				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"url": "https://github.com/MohdJunaid00fmekfk7"
 			},
 			{
 				"network": "linkedin",
 				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"url": "https://www.linkedin.com/in/mohd-junaid-4263551b9/"
 			},
-			{
-				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
-			}
+			
 		]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
+	
+
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"startDate": "2018-04-08 ",
 		"endDate": "----",
 		"gpa": "---Add your CGPA ---",
 		"courses": [
