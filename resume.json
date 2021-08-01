@@ -16,13 +16,13 @@
 		},
 		"profiles": [{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://github.com/MohdJunaid00fmekfk7"
+				"username": "MohdJunaid007",
+				"url": "https://github.com/MohdJunaid007"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/mohd-junaid-4263551b9/"
+				"username": "junaid001",
+				"url": "https://www.linkedin.com/in/junaid001/"
 			},
 			
 		]
@@ -49,7 +49,7 @@
 	
 	"skills": [{
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "PHP", "C","mySQL","JAVA", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "PHP", "C","mySQL","JAVA","NodeJS","jQuery"]
 		
 		
 	}],
