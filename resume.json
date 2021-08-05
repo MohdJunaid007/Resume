@@ -42,7 +42,7 @@
 	
 	    "languages": [
         {
-            "language": "English",
+            "language": ["English","Hindi"],
             "fluency": "Native speaker"
         }
     ],
