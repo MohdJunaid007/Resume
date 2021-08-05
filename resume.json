@@ -23,7 +23,7 @@
 				"network": "linkedin",
 				"username": "junaid001",
 				"url": "https://www.linkedin.com/in/junaid001/"
-			},
+			}
 			
 		]
 	},
@@ -42,22 +42,22 @@
 	
 	    "languages": [
         {
-            "language": "English","Hindi"
+            "language": "English",
             "fluency": "Native speaker"
         }
     ],
 	
 	"skills": [{
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "PHP", "C","mySQL","JAVA","NodeJS","jQuery"]
+		"keywords": ["HTML", "CSS", "Javascript", "PHP", "C","mySQL","JAVA","NodeJS","jQuery","Express","react"]
 		
 		
 	}],
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Chess", "Badminton","Cricket","Volley Ball","Kabaddi"]
-	}],
-	"references":[]
+	}]
+	
 }
 	
 
